@@ -35,4 +35,4 @@ O objetivo deste projeto é fornecer uma visão detalhada sobre os fatores que i
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/vvictorvsaraujo/Titanic-Survival-Analysis.git
+   git clone https://github.com/victorvsaraujo/Titanic-Survival-Analysis.git
